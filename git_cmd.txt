@@ -1,3 +1,8 @@
+          + new account
+  + $ git config --global user.name "your_username" 
+  + $ git config --global user.email "your_email_address@example.com"
+     (for add git server to local)
+
 1_ get URL (HTTPS for public or SSH for private ) for Clone in My PC 
 2_For use git in pc. open get Bash on your folder
 3_ white cmd $ git clone URL(HTTPS or SSH)
