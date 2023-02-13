@@ -1,0 +1,27 @@
+1_ get URL (HTTPS for public or SSH for private ) for Clone in My PC 
+2_For use git in pc. open get Bash on your folder
+3_ white cmd $ git clone URL(HTTPS or SSH)
+4_ step get file or folder ot repo 
+   + $ git status (for check file or folder not commit)
+   + $ git add <name file,folder or use . for add all > 
+        (for add file or folder to state )
+   + $ git commit (or add -m "" for cm your file or folder)
+       (for get file or folder all add finish)
+   + $ git log (for check commit on server)
+   + $ git push ( for get file or folder to server) 
+   + $ git pull 
+       (for get file or folder on server to My pc)
+5_ make branch on git hub
+  + git branch (for check all branch in server)
+  + git checkout -b <name branch> (for make branch)
+  + git checkout <name branch> (for change branch)
+  + git checkout -d <name branch> (for delete branch)
+  + git push origin <name branch> (for push to branch)
+6_ get banch ot master banch
+  + git checkout master (for join master branch)
+  + git marge <name branch> 
+    (for get fileor folder in branch to master branch)
+ 7_ Create Tag 
+    + git tag (for check tag)
+    + git tag <name> <number file or folder> (for add tag in server)
+    + git push --tags (for push tag to server)
