@@ -2,6 +2,9 @@
 2_For use git in pc. open get Bash on your folder
 3_ white cmd $ git clone URL(HTTPS or SSH)
 4_ step get file or folder ot repo 
+   + $ git init
+   + $ git remote add origin URL(HTTPS or SSH)
+   + $ git remote -v (for check conect git)
    + $ git status (for check file or folder not commit)
    + $ git add <name file,folder or use . for add all > 
         (for add file or folder to state )
@@ -9,7 +12,7 @@
        (for get file or folder all add finish)
    + $ git log (for check commit on server)
    + $ git push ( for get file or folder to server) 
-   + $ git pull 
+   + $ git pull origin <name pranch>
        (for get file or folder on server to My pc)
 5_ make branch on git hub
   + git branch (for check all branch in server)
