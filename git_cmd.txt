@@ -33,3 +33,5 @@
     + git tag (for check tag)
     + git tag <name> <number file or folder> (for add tag in server)
     + git push --tags (for push tag to server)
+8_ fix local and server conect together
+  + git fetch
